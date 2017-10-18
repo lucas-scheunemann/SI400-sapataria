@@ -21,6 +21,26 @@ Permitir o gerenciamento de vendas.
 Permitir o gerenciamento de estoque.
 
 ### CLASSES
+PESSOA:
+Nome,
+Rg,
+Cpf,
+E-mail,
+Telefone,
+Endereço.
+
+FUNCIONÁRIO: 
+Nome,
+Rg,
+Cpf,
+E-mail,
+Telefone,
+Endereço,
+Data de Nascimento,
+Hora de entrada,
+Hora de saída,
+Carteira de trabalho.
+
 GERENTE:
 Nome,
 Rg,
@@ -33,7 +53,7 @@ Hora de entrada,
 Hora de saída,
 Carteira de trabalho.
             	
-FUNCIONÁRIO:
+VENDEDOR:
 Nome,
 Rg,
 Cpf,
